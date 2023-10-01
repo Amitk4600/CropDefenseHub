@@ -1,0 +1,26 @@
+.form-group {
+  font-size: 1.5rem;
+}
+.container {
+  border-radius: 15px;
+  border: ridge 2px transparent;
+  background: radial-gradient(
+    circle,
+    #3072d5,
+    #008be3,
+    #00a3ea,
+    #00b9ec,
+    #12cdeb
+  );
+  padding: 20px;
+}
+
+.login {
+  font-weight: 700;
+
+  color: beige;
+}
+.login:hover {
+  background-color: blueviolet;
+  text-shadow: #b1b8c4;
+}
