@@ -3,9 +3,7 @@ Crop Defense Hub is an e-commerce platform designed to help farmers and agricult
 
 
 ## Demo
-
-You can see a live demo of Crop Defense Hub at [CropDefenseHub](https://crop-defense-hub.netlify.app/)
-
+https://crop-defense-hub.netlify.app/
 ## Screenshots
 ![Alt text](ScreenShots/cd-1.png)
 
